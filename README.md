@@ -1,1 +1,1 @@
-# SimpleBMP180
+# BMP180
